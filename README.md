@@ -1,4 +1,4 @@
-# Cloud-Resource-Allocation-Sample-Dataset-for-Multi-Constraint-User's-Tasks-for-Preference-Aware-Auction-Model-Research
+# Cloud Resource Allocation Sample Dataset for Multi Constraint User's Task Mapping to Heterogeneous VM offerings through Preference Aware Auction Model Research
 
 
 This repository contains a synthetically generated benchmark dataset representing IoT task requests and heterogeneous cloud Virtual Machine (VM) offerings, intended for use in research on cloud resource allocation, task scheduling, and auction-based resource provisioning in IoT-cloud environments.
