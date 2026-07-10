@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class ImportDataset {
 	public static void importTaskDataset() {
-		String taskDataFile = "G:\\My Drive\\PhD\\Contributions\\5. Contribution 4 (LEXA)\\New Revision\\Dataset\\TaskDataset\\TaskDataset200.csv";
+		String taskDataFile = "TaskDataset200.csv";
 			String taskDataLine="";	// to read the data file line by line
 			String csvSplitBy=",";
 			try(BufferedReader br = new BufferedReader(new FileReader(taskDataFile))){
@@ -32,7 +32,7 @@ public class ImportDataset {
 	}
 
 	public static void importVmDataset() {
-		String vmDataFile = "G:\\My Drive\\PhD\\Contributions\\5. Contribution 4 (LEXA)\\New Revision\\Dataset\\VmDataset\\150VmDataset.csv";
+		String vmDataFile = "150VmDataset.csv";
 		String vmDataLine="";	// to read the data file line by line
 		String csvSplitBy=",";	// to take comma separated values
 		try(BufferedReader br = new BufferedReader(new FileReader(vmDataFile))){
