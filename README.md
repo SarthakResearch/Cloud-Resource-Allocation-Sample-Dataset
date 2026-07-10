@@ -58,4 +58,4 @@ Note that the file paths in the sample code are hardcoded to a local directory s
 ## Notes
 
 - Task and VM attribute value ranges are independently drawn within fixed bounds representative of small-to-medium-scale IoT-cloud workloads and are consistent across all provided files.
-- This dataset is provided as a standalone, general-purpose benchmark for IoT-cloud task and VM allocation research and is not tied to any specific study.
+- This dataset is provided as a standalone, general-purpose benchmark for IoT-cloud task and VM allocation research.
