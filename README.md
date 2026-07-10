@@ -46,7 +46,7 @@ Each file contains a header row followed by VM records with the following attrib
 | 3 | Rate | Usage rate charged by the provider, in cost units per second |
 | 4 | Reputation | Reserved field for provider/VM reputation or reliability score. This field is not currently populated with meaningful values and is included to support future feedback- or reputation-based resource allocation studies |
 
-## Sample Parsing Code
+## Sample Parsing Code in JAVA
 
 A sample Java parsing utility, `ImportDataset.java`, is included in this repository to demonstrate how the CSV files can be read and loaded into memory. It provides two methods:
 
